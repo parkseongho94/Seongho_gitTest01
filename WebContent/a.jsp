@@ -7,9 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%
-String name ="멍청아";
-%>
+a.jsp문서
 
 </body>
 </html>
