@@ -9,6 +9,7 @@
 <body>
 <%
 String name ="멍청아";
+String age =20;
 %>
 
 </body>
